@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wingontravel.m",
+    "sha256_cert_fingerprints":
+    ["02:1A:91:35:C8:1C:CF:5B:0A:A0:84:90:C3:26:71:5E:23:76:B6:21:BE:80:09:48:85:A0:B1:C6:56:FE:09:56"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://zz446449676.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wingontravel.m",
+    "sha256_cert_fingerprints":
+    ["02:1A:91:35:C8:1C:CF:5B:0A:A0:84:90:C3:26:71:5E:23:76:B6:21:BE:80:09:48:85:A0:B1:C6:56:FE:09:56"]
+  }
+}]
