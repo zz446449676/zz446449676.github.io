@@ -22,4 +22,13 @@
     "sha256_cert_fingerprints":
     ["14:F8:16:60:5A:3E:44:55:06:E7:70:A6:57:D1:36:39:F3:B4:A4:09:22:5F:44:9B:BE:1C:FB:62:EA:67:30:2D"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : {
+    "namespace": "android_app", 
+    "package_name": "com.android.testdemo",
+    "sha256_cert_fingerprints": 
+    ["14:F8:16:60:5A:3E:44:55:06:E7:70:A6:57:D1:36:39:F3:B4:A4:09:22:5F:44:9B:BE:1C:FB:62:EA:67:30:2D"] 
+  }
 }]
